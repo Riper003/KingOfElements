@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 8e6e6edcbea885146bb562cb34942772
+timeCreated: 1513702421
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: lightning melee enemy_0
+    21300002: lightning melee enemy_1
+    21300004: lightning melee enemy_2
+    21300006: lightning melee enemy_3
+    21300008: lightning melee enemy_4
+    21300010: lightning melee enemy_5
+    21300012: lightning melee enemy_6
+    21300014: lightning melee enemy_7
+    21300016: lightning melee enemy_8
+    21300018: lightning melee enemy_9
+    21300020: lightning melee enemy_10
+    21300022: lightning melee enemy_11
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lightning melee enemy_0
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1007
+        width: 175
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1008
+        width: 175
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1007
+        width: 176
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1008
+        width: 171
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_4
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1008
+        width: 178
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_5
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 1008
+        width: 171
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_6
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 722
+        width: 132
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5000005, y: 0.5878298}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_7
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 722
+        width: 133
+        height: 239
+      alignment: 9
+      pivot: {x: 0.48780903, y: 0.56784403}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 722
+        width: 165
+        height: 239
+      alignment: 9
+      pivot: {x: 0.53930885, y: 0.57462835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_9
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 722
+        width: 131
+        height: 240
+      alignment: 9
+      pivot: {x: 0.5742658, y: 0.58107376}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_10
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 722
+        width: 135
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5720667, y: 0.581413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: lightning melee enemy_11
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 721
+        width: 166
+        height: 239
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58141273}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0f4bc7d528e3b0441acdfd10fe26ac5b
+timeCreated: 1513703219
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - julSprite: {instanceID: 0}
+  - normalSprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

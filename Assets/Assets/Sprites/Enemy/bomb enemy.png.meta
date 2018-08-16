@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: 2ba68cd975bc92b488d964a587f23bd0
+timeCreated: 1513702712
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bomb enemy 2_0
+    21300002: bomb enemy 2_1
+    21300004: bomb enemy 2_2
+    21300006: bomb enemy 2_3
+    21300008: bomb enemy 2_4
+    21300010: bomb enemy 2_5
+    21300012: bomb enemy 2_6
+    21300014: bomb enemy 2_7
+    21300016: bomb enemy 2_8
+    21300018: bomb enemy 2_9
+    21300020: bomb enemy 2_10
+    21300022: bomb enemy 2_11
+    21300024: bomb enemy 2_12
+    21300026: bomb enemy 2_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bomb enemy 2_0
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 824
+        width: 148
+        height: 121
+      alignment: 9
+      pivot: {x: 0.5000004, y: 0.35259455}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_1
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 824
+        width: 159
+        height: 114
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.32932}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_2
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 824
+        width: 170
+        height: 136
+      alignment: 9
+      pivot: {x: 0.45231035, y: 0.35693002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_3
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 824
+        width: 165
+        height: 135
+      alignment: 9
+      pivot: {x: 0.48034668, y: 0.3438594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_4
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 824
+        width: 174
+        height: 136
+      alignment: 9
+      pivot: {x: 0.5372757, y: 0.380775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_5
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 676
+        width: 185
+        height: 136
+      alignment: 9
+      pivot: {x: 0.44741228, y: 0.40462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_6
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 676
+        width: 163
+        height: 136
+      alignment: 9
+      pivot: {x: 0.40052354, y: 0.40462044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_7
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 676
+        width: 188
+        height: 137
+      alignment: 9
+      pivot: {x: 0.45687607, y: 0.36980978}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_8
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 676
+        width: 186
+        height: 136
+      alignment: 9
+      pivot: {x: 0.56102335, y: 0.428465}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_9
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 676
+        width: 160
+        height: 136
+      alignment: 9
+      pivot: {x: 0.6114761, y: 0.40462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_10
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 676
+        width: 180
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5720656, y: 0.4159243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 538
+        width: 170
+        height: 133
+      alignment: 9
+      pivot: {x: 0.49046236, y: 0.4390433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_12
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 539
+        width: 169
+        height: 134
+      alignment: 9
+      pivot: {x: 0.5, y: 0.41529688}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bomb enemy 2_13
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 538
+        width: 170
+        height: 129
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.44972265}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
